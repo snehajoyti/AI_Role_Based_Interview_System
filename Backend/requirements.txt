@@ -7,4 +7,4 @@ faiss-cpu
 groq
 python-dotenv
 sqlalchemy
-pydantic 
+pydantic
